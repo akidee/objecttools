@@ -1,0 +1,26 @@
+{
+	"name": "objecttools",
+	"version": "0.1.0",
+	"description": "JavaScript Object and JSON reference utilities",
+	"homepage": "https://github.com/akidee/objecttools",
+	"author": {
+		"name": "Andreas Kalsch",
+		"email": "mail@akidee.de",
+		"url": "http://akidee.de/"
+	},
+	"engine" : {
+		"node": "0"
+	},
+	"dependencies": {
+		
+	},
+	"devDependencies": {
+		
+	},
+	"keywords": [
+		"object",
+		"tool",
+		"json",
+		"reference"
+	]
+}
